@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://html-to-image-converter-one.vercel.app/">
+<urlset xmlns="https://html-to-image-converter-one.vercel.app">
   <url>
     <loc>https://html-to-image-converter.vercel.app</loc> 
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://html-to-image-converter.vercel.app/help</loc> 
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
